@@ -1,4 +1,5 @@
 import { Container } from "@chakra-ui/react";
+import FeedPost from "./FeedPost";
 
 const FeedPosts = () => {
   return (
